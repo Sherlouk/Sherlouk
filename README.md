@@ -1,7 +1,9 @@
 ## Hello 👋🏼 👨🏼‍💻
 
-Hi, I'm James Sherlock! I'm an iOS developer who primarily focusses on Swift and iOS but loves to explore the rest of the Apple ecosystem. I'm passionate about open-source, accessibility and automation!
+I'm James Sherlock! I'm a principal mobile engineer specialising in Swift and iOS, though I also love exploring the rest of Apple's ecosystem. I'm passionate about open-source, accessibility and automation!
 
-I'm always looking at opportunities to widen my knowledge, whether that be web development or struggling with seemingly simple Heroku setups 👀
+I'm always looking at opportunities to widen my knowledge, whether that be web development, android apps or just struggling with seemingly simple Heroku setups 👀
 
-Currently, I work on the [Sky News iOS app](https://apps.apple.com/gb/app/sky-news-breaking-uk-world/id316391924) supporting breaking news for millions of brits every day 🙌
+Currently, I help lead the [Sky Sports iOS app](https://apps.apple.com/gb/app/sky-sports/id500102120) supporting breaking news and major sporting events for millions of users every day 🙌
+
+I'm also an indie developer over at [@GetSidetrack](https://github.com/getsidetrack/)
